@@ -1,1 +1,2 @@
-# GrafkomG-SA2020-Tugas2
+Milleano Jody Alfredo Walimema
+672018141
