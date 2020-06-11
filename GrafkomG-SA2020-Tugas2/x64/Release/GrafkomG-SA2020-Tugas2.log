@@ -1,0 +1,21 @@
+﻿  GrafkomG-SA2020-Tugas2.cpp
+C:\Users\Milleano\source\repos\GrafkomG-SA2020-Tugas2\GrafkomG-SA2020-Tugas2\GrafkomG-SA2020-Tugas2.cpp(40,60): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Milleano\source\repos\GrafkomG-SA2020-Tugas2\GrafkomG-SA2020-Tugas2\GrafkomG-SA2020-Tugas2.cpp(40,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Milleano\source\repos\GrafkomG-SA2020-Tugas2\GrafkomG-SA2020-Tugas2\GrafkomG-SA2020-Tugas2.cpp(48,60): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Milleano\source\repos\GrafkomG-SA2020-Tugas2\GrafkomG-SA2020-Tugas2\GrafkomG-SA2020-Tugas2.cpp(48,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Milleano\source\repos\GrafkomG-SA2020-Tugas2\GrafkomG-SA2020-Tugas2\GrafkomG-SA2020-Tugas2.cpp(57,60): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Milleano\source\repos\GrafkomG-SA2020-Tugas2\GrafkomG-SA2020-Tugas2\GrafkomG-SA2020-Tugas2.cpp(57,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Milleano\source\repos\GrafkomG-SA2020-Tugas2\GrafkomG-SA2020-Tugas2\GrafkomG-SA2020-Tugas2.cpp(65,78): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Milleano\source\repos\GrafkomG-SA2020-Tugas2\GrafkomG-SA2020-Tugas2\GrafkomG-SA2020-Tugas2.cpp(65,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Milleano\source\repos\GrafkomG-SA2020-Tugas2\GrafkomG-SA2020-Tugas2\GrafkomG-SA2020-Tugas2.cpp(70,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Milleano\source\repos\GrafkomG-SA2020-Tugas2\GrafkomG-SA2020-Tugas2\GrafkomG-SA2020-Tugas2.cpp(75,60): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Milleano\source\repos\GrafkomG-SA2020-Tugas2\GrafkomG-SA2020-Tugas2\GrafkomG-SA2020-Tugas2.cpp(75,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Milleano\source\repos\GrafkomG-SA2020-Tugas2\GrafkomG-SA2020-Tugas2\GrafkomG-SA2020-Tugas2.cpp(83,78): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Milleano\source\repos\GrafkomG-SA2020-Tugas2\GrafkomG-SA2020-Tugas2\GrafkomG-SA2020-Tugas2.cpp(83,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Milleano\source\repos\GrafkomG-SA2020-Tugas2\GrafkomG-SA2020-Tugas2\GrafkomG-SA2020-Tugas2.cpp(91,82): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Milleano\source\repos\GrafkomG-SA2020-Tugas2\GrafkomG-SA2020-Tugas2\GrafkomG-SA2020-Tugas2.cpp(91,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GrafkomG-SA2020-Tugas2.vcxproj -> C:\Users\Milleano\source\repos\GrafkomG-SA2020-Tugas2\x64\Release\GrafkomG-SA2020-Tugas2.exe
